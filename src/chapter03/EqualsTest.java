@@ -10,7 +10,7 @@ public class EqualsTest {
 		Point pt1 = new Point(10, 20);
 		Point pt2 = new Point(10, 20);
 		Point pt3 = pt2;
-		
+
 		// == 연산자에서 두 개의 항이 객체 참조 변수인 경우에는
 		// 두 객체의 동일 여부
 		System.out.println( pt1 == pt2 );
